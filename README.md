@@ -23,6 +23,6 @@ Estatística Descritiva da base
 * time_signature: Verificar quantas batidas há em cada compasso.
 * liked: Variável para ser predita, se a música recebeu um like (1) ou deslike (0)
 
-Utilizando o algoritmo de machine learnin decision tree para prever os likes, chegamos a uma acurácia de 88% aproximadamente, plotagem da árvore abaixo:
+Utilizando o algoritmo de machine learning decision tree para prever os likes, chegamos a uma acurácia de 88% aproximadamente, plotagem da árvore abaixo:
 
 ![image](https://github.com/LucasMarchesoni/Spotify-EDA-e-Previs-o-de-Likes/assets/133407474/0cb088ae-7edc-4f38-9f9d-9f13c5006435)
